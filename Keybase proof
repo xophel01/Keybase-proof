@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am xophel on github.
+  * I am xophel (https://keybase.io/xophel) on keybase.
+  * I have a public key ASDafAjVM6iiMvDIYA8hIQvm1Cqgbi-R5LlSLAIKZVHJJgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207da9764bb1f71ea289ae76e8c172263ceefe8eab0f9944d4b87103df772e43ef0a",
+      "host": "keybase.io",
+      "kid": "0120da7c08d533a8a232f0c8600f21210be6d42aa06e2f91e4b9522c020a6551c9260a",
+      "uid": "8ca99265c713e256ed4cf56e2082ef19",
+      "username": "xophel"
+    },
+    "merkle_root": {
+      "ctime": 1568170054,
+      "hash": "19eef933b0e23fc0a5f18768b9eae522c052992589099dc46037b0d6cc38f47db1e7ee2ecc7557ab68878f5a7517b0aad160442d1efa60738220b0854af9dcb8",
+      "hash_meta": "ac3c0e8da96d139e6164ba6fc65e9ad2e9490eb1fb1dd9657244abac9141d46e",
+      "seqno": 6569389
+    },
+    "service": {
+      "entropy": "pyrpcM2knA7ehhonGhOVu6NU",
+      "name": "github",
+      "username": "xophel"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568170061,
+  "expire_in": 504576000,
+  "prev": "16b9dd07a6add2d8711dcf256c929ac093f4b81bf805fafd956dd58bdf1bafa6",
+  "seqno": 37,
+  "tag": "signature"
+}
+```
+
+with the key [ASDafAjVM6iiMvDIYA8hIQvm1Cqgbi-R5LlSLAIKZVHJJgo](https://keybase.io/xophel), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2nwI1TOoojLwyGAPISEL5tQqoG4vkeS5UiwCCmVRySYKp3BheWxvYWTESpcCJcQgFrndB6at0thxHc8lbJKawJP0uBv4Bfr9lW3Vi98br6bEIMLPIiAbW4TgyJbdYEPFXhMFrUuy2fOs7vgfGPvx2NJIAgHCo3NpZ8RAcGby3WOXNe9tIpCVMR+Vc67Kg7W8iBBxj3UpPSPEbnMDsj55QyQMWcMy+5Aaw88TfxcGpjFono6AI9ktS6sADKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICxdut/5qTOJDS/qtjkbUki31vxpvifc33AWFRFDXXdwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/xophel
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id xophel
+```
